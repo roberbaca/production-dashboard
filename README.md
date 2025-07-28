@@ -17,7 +17,7 @@ It provides key insights into manufacturing performance, efficiency, and output 
 Below are examples of the dashboard visuals:
 
 ### Overview Page
-![Overview Screenshot](01.png)
+![Overview Screenshot](screenshots/01.png)
 
 ### Line Efficiency
 ![Line Efficiency Screenshot](screenshots/02.png)
