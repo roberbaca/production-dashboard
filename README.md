@@ -17,16 +17,16 @@ It provides key insights into manufacturing performance, efficiency, and output 
 Below are examples of the dashboard visuals:
 
 ### Overview Page
-![Overview Screenshot](screenshots/01.png)
+![Overview Screenshot](screenshots/01.PNG)
 
 ### Line Efficiency
-![Line Efficiency Screenshot](screenshots/02.png)
+![Line Efficiency Screenshot](screenshots/02.PNG)
 
 ### Downtime Analysis
-![Downtime Screenshot](screenshots/03.png)
+![Downtime Screenshot](screenshots/03.PNG)
 
 ### Main Markets
-![Main Markets Screenshot](screenshots/04.png)
+![Main Markets Screenshot](screenshots/04.PNG)
 
 ## 🛠 Technical Highlights
 
